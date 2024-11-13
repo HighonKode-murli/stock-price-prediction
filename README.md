@@ -4,7 +4,7 @@ Welcome to the **Stock Price Prediction App**! This web application uses machine
 
 You can also check out the app live by clicking on the link below:
 
-**[APP URL](https://stock-price-prediction-murli.streamlit.app/)**
+**[Try the App! 🚀](https://stock-price-prediction-murli.streamlit.app/)**
 
 ---
 
